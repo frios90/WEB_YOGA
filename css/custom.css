@@ -1,0 +1,50 @@
+.titulo-de-servicios {
+    color: #9E63C9!important;
+    letter-spacing: .1em!important;
+    font-size: 20px!important;
+    margin: 30px 0px 60px;
+}
+
+.service-desc {
+    text-align: center!important;
+    font-size: 12px!important;
+    padding: 0px 30px;
+
+}
+
+.club-clase-yoga {
+    text-align: center!important;
+    letter-spacing: .1em!important;
+}
+
+.detalle-club-clase-yoga p{
+    margin-top: 30px!important;
+    text-align: justify!important;
+
+}
+
+    @media (max-width: 900px) {
+        .yoga-vero .banner .banner-content a.banner-btn, .yoga-vero .join-us-section .join-us-btn {
+            font-size: 12px;         
+            letter-spacing: 0.3px;
+            font-weight: 600!important;
+            padding: 10px 15px 10px;
+        
+        }
+    }
+
+.fade {
+    opacity: 0;
+    transition:1.5s opacity;
+}
+
+.desarrollado-x-fejhu {
+    background-color: #9E63C9;
+    font-size: 12px;
+    color: #FABCFC;
+    text-align: center;
+}
+
+.desarrollado-x-fejhu a{
+   color: #fff!important;
+}

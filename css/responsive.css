@@ -1,0 +1,132 @@
+@media (max-width: 991.98px) {
+
+	/*Global*/
+	.seccion-de-detalles {
+		margin: 0 0 30px;
+	}
+	/*Banner*/
+	.yoga-vero .banner .top-bar-left a {
+		font-size:17px;
+	}
+	.yoga-vero .banner .banner-content .content-col {
+		padding-left: 30px;
+	}
+	/*Service*/
+	.yoga-vero .service-section .service-detail > div {
+		margin-bottom: 40px;
+	}
+	.yoga-vero .mejor-vero-clase .detalle-club-clase-yoga {
+		padding-right: 15px;
+	}
+	/*Class Yoga Club*/
+	.yoga-vero .mejor-vero-clase .mejor-vero-clase-desc {
+		padding: 60px 30px;
+	}
+	.yoga-vero .mejor-vero-clase .mejor-vero-clase-img {
+		padding: 250px 0;
+	}
+	/*Advantages*/
+	.yoga-vero  .seccion-de-ventajas {
+		padding: 60px 15px;
+	}
+	.yoga-vero  .seccion-de-ventajas {
+		background-image: url(../img/advantages-of-yoga-mobile.jpg);
+	    background-size: cover;
+	    background-repeat: no-repeat;
+	    background-position: center center;
+	}
+	.yoga-vero  .seccion-de-ventajas .section-title{
+		color: #fe86d4;
+	}
+	.yoga-vero  .seccion-de-ventajas .section-title-desc {
+		color: #fff;
+	}
+	.yoga-vero .seccion-de-ventajas .seccion-de-ventaja-title {
+		color: #fe86d4;
+    	margin-top: 10px;
+	}
+	.yoga-vero .seccion-de-ventajas .seccion-de-ventaja-desc {
+		color: #fff;
+	}
+	.yoga-vero .seccion-de-ventajas .seccion-de-ventaja-soul,
+	.yoga-vero .seccion-de-ventajas .seccion-de-ventaja-health,
+	.yoga-vero .seccion-de-ventajas .seccion-de-ventaja-relax,
+	.yoga-vero .seccion-de-ventajas .seccion-de-ventaja-energy,
+	.yoga-vero .seccion-de-ventajas .seccion-de-ventaja-mind,
+	.yoga-vero .seccion-de-ventajas .seccion-de-ventaja-meditat {
+		width: 100%;	
+		text-align: center;
+		margin: 0 auto 24px;
+	}
+	/*Yoga Place*/
+	.yoga-vero .yogaPlace-section .yogaPlace-col > div{
+		margin-bottom: 40px;
+	}
+	/*Contact us*/
+	.yoga-vero .contact-section .appointment 
+	.appointment-form .box-select::before {
+	    content: "\f0dd";
+	    font-family: "Font Awesome 5 Free";
+	    position: absolute;
+	    top: 41%;
+	    right: -0.5%;
+	    width: 35px;
+	    height: 38px;
+	    text-align: center;
+	    font-size: 14px;
+	    line-height: 37px;
+	    color: rgb(255, 255, 255);
+	    background-color: rgb(123, 108, 213);
+	    font-weight: 600;
+	    border-radius: 3px;
+	    transform: translate(-50%, -50%);
+	}
+	.yoga-vero .contact-section .appointment 
+	.appointment-form .appointment-form-col-left {
+		padding-right: 15px;
+	}
+	.yoga-vero .contact-section .appointment 
+	.appointment-form .appointment-form-col-right {
+		padding-left: 15px;
+	    padding-right: 15px;
+	}
+	/* Trainers*/
+	.yoga-vero .trainer-section .trainer-col {
+		margin-bottom: 0px;
+	}
+	.yoga-vero .trainer-section .trainer-col > div{
+		margin-bottom: 40px;
+	}
+	/*Copyright*/
+	.yoga-vero .footer .copyright,
+	.yoga-vero .footer .copyright .social {
+		text-align: center;
+	}
+}
+@media (max-width: 767.98px)  { 
+	/*Banner*/
+	.yoga-vero .banner .top-bar,
+	.yoga-vero .banner .top-bar-right {
+		text-align: center;
+	}
+	/*Contact us*/
+	.yoga-vero .contact-section .appointment 
+	.appointment-form .box-select::before {
+	    content: "\f0dd";
+	    font-family: "Font Awesome 5 Free";
+	    position: absolute;
+	    top: 41%;
+	    right: -0.6%;
+	    width: 35px;
+	    height: 38px;
+	    text-align: center;
+	    font-size: 14px;
+	    line-height: 37px;
+	    color: rgb(255, 255, 255);
+	    background-color: rgb(123, 108, 213);
+	    font-weight: 600;
+	    border-radius: 3px;
+	    transform: translate(-50%, -50%);
+	}
+
+}
